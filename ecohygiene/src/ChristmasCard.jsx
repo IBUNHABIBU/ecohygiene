@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const flowers = ["🌸", "🌺", "🌼", "🌷", "💐"];
+const flowers = ["🌸", "🌺", "🌼","🌼", "🌷", "💐"];
 
 export default function ChristmasCard() {
     const message =
