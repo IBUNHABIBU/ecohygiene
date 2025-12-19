@@ -4,7 +4,7 @@ const flowers = ["🌸", "🌺", "🌼","🌼", "🌷", "💐"];
 
 export default function ChristmasCard() {
     const message =
-  "Merry Christmas 🎄\nAnd a Happy New Year 🎆\nMay joy, peace and love be with you.";
+  "We wish you a Merry Christmas 🎄\nAnd a Happy New Year 🎆\nMay joy, peace and love be with you.";
 
   const [text, setText] = useState("");
   const [bursts, setBursts] = useState([]);
